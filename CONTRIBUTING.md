@@ -13,7 +13,7 @@ un mail à l'adresse: teambunnyapps@gmail.com
 Les informations nécessaires pour ajouter un nouveau lac sont:
 
 * Le nom du lac
-* Pays, département et ville
+* Pays, région et département
 * Coordonnées (latitude, longitude et altitude)
 * Présence d'un parking ou non
 * Accès au lac gratuit ou non
